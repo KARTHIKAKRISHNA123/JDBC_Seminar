@@ -1,0 +1,8 @@
+Put the MySQL Connector/J jar file in THIS folder.
+
+1. Open https://dev.mysql.com/downloads/connector/j/
+2. "Select Operating System" -> Platform Independent
+3. Download the ZIP archive, unzip it
+4. Copy  mysql-connector-j-9.x.x.jar  into this lib folder
+
+(Take the newest 9.x version shown on the page. Any recent 8.x/9.x version works with these demos.)
